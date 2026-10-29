@@ -21,3 +21,8 @@ You will need a C compiler (like GCC) installed on your machine or you can run i
 3. Compile the code:
    ```bash
    gcc connect4.c -o connect4
+
+
+## 📸 Screenshot
+<img width="505" height="744" alt="output4" src="https://github.com/user-attachments/assets/b54bd4bb-8498-4a05-8ca4-c6a7403c1b42" />
+
